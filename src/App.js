@@ -1,10 +1,10 @@
 import './App.css';
-import Alert from './components/alert';
+import Main from './components/main/main';
 
 function App() {
   return (
     <div className="App">
-      <Alert />
+      <Main />
     </div>
   );
 }
